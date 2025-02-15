@@ -8,11 +8,12 @@ Este repositório contém um **Dashboard de Vendas** desenvolvido no **Power BI*
 - **Excel** - Dados complementares
 
 ## 📈 Principais Recursos
-- Visão geral das vendas
-- Comparação de desempenho por período
-- Análise de produtos mais vendidos
-- Monitoramento de metas e indicadores-chave (KPIs)
-- Segmentação por região, categoria e canal de vendas
+- **Valor Total Vendido**: Exibe o montante total de vendas realizadas.
+- **Vendas por Categoria de Produto**: Demonstra a quantidade de vendas realizadas para cada categoria.
+- **Vendas por País e Prioridade de Entrega**: Permite visualizar a distribuição de vendas por país, considerando a prioridade de entrega.
+- **Média de Desconto por Subcategoria**: Mostra a média de desconto concedido em cada subcategoria de produto.
+- **Mapa de Valor Médio de Venda por País**: Apresenta os países com maior valor médio de venda em um mapa interativo.
+- **Filtros Interativos**: Possibilidade de filtrar os dados por ano, segmento e país, permitindo uma análise detalhada conforme necessidade do usuário.
 
 ## 🚀 Como Utilizar
 1. **Baixar o arquivo**: Faça o download do arquivo `.pbix` na aba **Releases** ou diretamente neste repositório.
