@@ -20,7 +20,7 @@ Este repositório contém um **Dashboard de Vendas** desenvolvido no **Power BI*
 3. **Conectar a sua base de dados** (se necessário): Caso precise atualizar os dados, configure a conexão com sua fonte de dados.
 
 ## 📥 Download
-🔗 **[Clique aqui](./dashboard.pbix) para baixar o arquivo do dashboard**
+🔗 **[Clique aqui](./VendasGlobais.pbix) para baixar o arquivo do dashboard**
 
 
 
