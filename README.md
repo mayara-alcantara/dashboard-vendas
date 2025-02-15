@@ -23,6 +23,10 @@ Este repositório contém um **Dashboard de Vendas** desenvolvido no **Power BI*
 ## 📥 Download
 🔗 **[Clique aqui](./VendasGlobais.pbix) para baixar o arquivo do dashboard**
 
+## 🛠️ Tecnologias Utilizadas  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
 
 
 
