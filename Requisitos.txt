@@ -1,4 +1,3 @@
-Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
 
 Pergunta 1 - Qual o valor total vendido?
 
@@ -8,8 +7,7 @@ Pergunta 3 - Quantas vendas foram realizadas por país considerando a prioridade
 
 Pergunta 4 - Qual foi a média de desconto nas vendas por subcategoria de produto?
 
-Pergunta 5 - Quais países tiveram maior média de valor de venda? Demonstre em um mapa.
+Pergunta 5 - Quais países tiveram maior média de valor de venda?
 
-E nosso Dashboard deve dar ao usuário a possibilidade de filtrar os dados por ano, por segmento e por país.
 
 
